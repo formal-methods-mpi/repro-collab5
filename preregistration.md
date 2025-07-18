@@ -1,4 +1,4 @@
-# Preregistration
+# Preregistration!
 
 ## Study Overview
 This study aims to replicate Stevens' Power Law for size perception.
